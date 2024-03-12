@@ -28,7 +28,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
-- **RESPOSTA: Programa em Python [2- Fibonacci.py](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/2-%20Fibonacci.py)
+- **RESPOSTA: Programa em Python [Fibonacci](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/2-%20Fibonacci.py)
 
 
 ### **3) Descubra a lógica e complete o próximo elemento:** ##
@@ -47,13 +47,13 @@ e) 1, 1, 2, 3, 5, 8, ____
 
 f) 2,10, 12, 16, 17, 18, 19, ____
 
-- **RESPOSTA: [lógica.py](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/3-%20l%C3%B3gica.py)
+- **RESPOSTA: [lógica](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/3-%20l%C3%B3gica.py)**
 
 ### **4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.** ##
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
 
- 
+ - **RESPOSTA: [interruptores](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/4%20-%20interruptores.py)
 
 ### **5) Escreva um programa que inverta os caracteres de um string.** ##
 
@@ -63,3 +63,5 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse
+
+- **RESPOSTA: [String](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/5-String%2Cpy)
