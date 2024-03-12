@@ -28,7 +28,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
-- **RESPOSTA: Programa em Python [Fibonacci](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/2-%20Fibonacci.py)
+- **RESPOSTA: Programa em Python [Fibonacci](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/2-%20Fibonacci.py)**
 
 
 ### **3) Descubra a lógica e complete o próximo elemento:** ##
@@ -53,7 +53,7 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
 
- - **RESPOSTA: [interruptores](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/4%20-%20interruptores.py)
+ - **RESPOSTA: [interruptores](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/4%20-%20interruptores.py)**
 
 ### **5) Escreva um programa que inverta os caracteres de um string.** ##
 
@@ -64,4 +64,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse
 
-- **RESPOSTA: [String](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/5-String%2Cpy)
+- **RESPOSTA: [String](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/5-String%2Cpy)**
