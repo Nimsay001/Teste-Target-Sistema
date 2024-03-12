@@ -47,7 +47,7 @@ e) 1, 1, 2, 3, 5, 8, ____
 
 f) 2,10, 12, 16, 17, 18, 19, ____
 
-- **RESPOSTA:
+- **RESPOSTA: [lógica.py](https://github.com/Nimsay001/Teste-Target-Sistema/blob/main/3-%20l%C3%B3gica.py)
 
 ### **4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.** ##
 
